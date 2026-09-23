@@ -25,30 +25,28 @@
 
 ## What we do
 
-BluefateLabs provides contract engineering, custom software development, AI implementation, automation, robotics, electronics, dashboards, integrations, and technical consulting.
-
-We help organizations turn technology into measurable business results — fewer manual hours, modern systems without disruption, and AI that ships into real workflows.
+Contract engineering, custom software, AI implementation, automation, robotics, electronics, dashboards, integrations, and technical consulting.
 
 ### How we can help
 
 | Path | Focus |
 | --- | --- |
 | **Software built or improved** | Custom applications, integrations, dashboards, and systems work |
-| **AI or automation implemented** | Practical AI and workflow automation that fits existing operations |
-| **Technical development partner** | Senior engineering capacity across software, data, and intelligent systems |
+| **AI or automation implemented** | AI and workflow automation for existing operations |
+| **Technical development partner** | Engineering capacity across software, data, and intelligent systems |
 
-**Specialized capabilities:** robotics and electronics · [Missed Lead Recovery](https://bluefatelabs.com) for service businesses that lose work after first contact
+**Also:** robotics and electronics · [Missed Lead Recovery](https://bluefatelabs.com) for service businesses
 
 ---
 
 ## Capabilities
 
-- **Applied AI & ML** — models and agents in production workflows, from computer vision to LLM assistants
-- **Enterprise software** — .NET and Python services, TypeScript front ends, APIs built to scale
-- **Cloud & platforms** — Azure- and AWS-centered delivery, containers, infrastructure as code
+- **Applied AI & ML** — models and agents in production workflows
+- **Enterprise software** — .NET and Python services, TypeScript front ends, APIs
+- **Cloud & platforms** — Azure and AWS, containers, infrastructure as code
 - **Data engineering & BI** — streaming and batch pipelines, Kafka, Spark, warehouses, dashboards
-- **Robotics & automation** — ROS, simulation, motion, and control loops that work in the physical world
-- **Electronics & IoT** — edge devices, sensors, and messaging from prototype to production fleets
+- **Robotics & automation** — ROS, simulation, motion, and control loops
+- **Electronics & IoT** — edge devices, sensors, and messaging
 
 ---
 
@@ -56,22 +54,17 @@ We help organizations turn technology into measurable business results — fewer
 
 Healthcare · Dental AI · Retail · Manufacturing · Construction · Legal · Government · Small business
 
-We speak the language of each sector — regulators, operations, and the real constraints that make generic AI pitches fail.
-
 ---
 
 ## Why BluefateLabs
 
-- **Engineers first** — you work with builders from architecture through deployment, not only advisors
-- **Shipped at enterprise scale** — production systems for Fortune 500 retail, healthcare, and government-adjacent environments
-- **Measured outcomes** — engagements tied to hours saved, costs reduced, revenue enabled, or risk mitigated
-- **Risk-first delivery** — assess before you build, prototype before you scale, clear exit points at every phase
+- Hands-on engineers from architecture through deployment
+- Production systems for Fortune 500 retail, healthcare, and government-adjacent environments
+- Fixed scope, clear exit points, assess before you build
 
 ---
 
 ## Get in touch
-
-Ready to start a project conversation? Tell us what you are trying to solve — software, AI or automation, a longer technical partnership, or a specialized capability.
 
 - **Web:** [bluefatelabs.com](https://bluefatelabs.com)
 - **Email:** [hello@bluefatelabs.com](mailto:hello@bluefatelabs.com)
