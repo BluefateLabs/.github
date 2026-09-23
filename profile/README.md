@@ -41,12 +41,12 @@ Contract engineering, custom software, AI implementation, automation, robotics, 
 
 ## Capabilities
 
-- **Applied AI & ML** — models and agents in production workflows
-- **Enterprise software** — .NET and Python services, TypeScript front ends, APIs
-- **Cloud & platforms** — Azure and AWS, containers, infrastructure as code
-- **Data engineering & BI** — streaming and batch pipelines, Kafka, Spark, warehouses, dashboards
-- **Robotics & automation** — ROS, simulation, motion, and control loops
-- **Electronics & IoT** — edge devices, sensors, and messaging
+- **Applied AI & ML**: models and agents in production workflows
+- **Enterprise software**: .NET and Python services, TypeScript front ends, APIs
+- **Cloud & platforms**: Azure and AWS, containers, infrastructure as code
+- **Data engineering & BI**: streaming and batch pipelines, Kafka, Spark, warehouses, dashboards
+- **Robotics & automation**: ROS, simulation, motion, and control loops
+- **Electronics & IoT**: edge devices, sensors, and messaging
 
 ---
 
@@ -69,7 +69,7 @@ Healthcare · Dental AI · Retail · Manufacturing · Construction · Legal · G
 - **Web:** [bluefatelabs.com](https://bluefatelabs.com)
 - **Email:** [hello@bluefatelabs.com](mailto:hello@bluefatelabs.com)
 - **Phone:** [+1 (312) 834-7055](tel:+13128347055)
-- **Hours:** Mon–Fri, 9:00am–5:00pm EST
+- **Hours:** Mon-Fri, 9:00am-5:00pm EST
 - **Locations:** Palm Beach, FL · Latam
 
 <p align="center">
